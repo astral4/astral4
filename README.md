@@ -2,9 +2,9 @@
 
 I'm Kyle. Right now, I'm a high school senior attending [Phillips Academy](https://www.andover.edu/). I love using math and computer science to solve problems! My work is motivated by a constant curiosity about how the world works and a desire to make knowledge more accessible. By [learning in public](https://www.swyx.io/learn-in-public) and [working with the garage door up](https://notes.andymatuschak.org/Work_with_the_garage_door_up), I hope to engage others in the wonderfully wacky world of programming.
 
-<figure align="center">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Trefoil_knot_conways_game_of_life_without_background_and_fitting.gif" alt="A simulation of Conway's Game of Life on the surface of a trefoil knot">
-    <figcaption>
+<figure style="margin: 2em auto 3em;" align="center">
+    <img src="./cgol.gif" alt="A simulation of Conway's Game of Life on the surface of a trefoil knot">
+    <figcaption style="font-size: 0.875em;">
         <a href="https://commons.wikimedia.org/wiki/File:Trefoil_knot_conways_game_of_life_without_background_and_fitting.gif">The Titou</a>,
         <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>,
         via Wikimedia Commons
@@ -18,18 +18,6 @@ My GitHub profile displays some of the projects I've worked on over the years. H
 - 🤖 A port of [Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN) to the deep learning framework [Burn](https://burn.dev/). Real-ESRGAN is a machine learning algorithm for [super-resolution imaging](https://en.wikipedia.org/wiki/Super-resolution_imaging) and image restoration.
 - 📊 3D [force-directed graphs](https://en.wikipedia.org/wiki/Force-directed_graph_drawing). I'm using [Rust](https://www.rust-lang.org/), [wgpu](https://wgpu.rs/), and GPU programming to power high-performance data visualization.
 
-<div class="footer" align="center">
+<div style="margin-top: 3em;" align="center">
     <img src="./footer.png" alt="Iwakura Lain">
 </div>
-
-<style>
-    figure {
-        margin: 2em auto 3em;
-    }
-    figcaption {
-        font-size: 0.875em;
-    }
-    .footer {
-        margin-top: 3em;
-    }
-</style>
