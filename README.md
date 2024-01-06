@@ -5,7 +5,7 @@ I'm Kyle. Right now, I'm a high school senior attending [Phillips Academy](https
 <br>
 
 <p align="center">
-    <img src="./cgol.gif" alt="A simulation of Conway's Game of Life on the surface of a trefoil knot" width="400">
+    <img src="./cgol.gif" alt="A simulation of Conway's Game of Life on the surface of a trefoil knot">
 </p>
 
 <p align="center">
@@ -26,5 +26,5 @@ My GitHub profile displays some of the projects I've worked on over the years. H
 <br>
 
 <p align="center">
-    <img src="./footer.png" alt="Iwakura Lain" width="846">
+    <img src="./footer.png" alt="Iwakura Lain">
 </p>
