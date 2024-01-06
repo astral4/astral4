@@ -5,14 +5,13 @@ I'm Kyle. Right now, I'm a high school senior attending [Phillips Academy](https
 <br>
 
 <p align="center">
-    <figure>
-        <img src="./cgol.gif" alt="A simulation of Conway's Game of Life on the surface of a trefoil knot">
-        <figcaption>
-            <a href="https://commons.wikimedia.org/wiki/File:Trefoil_knot_conways_game_of_life_without_background_and_fitting.gif">The Titou</a>,
-            <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>,
-            via Wikimedia Commons
-        </figcaption>
-    </figure>
+    <img src="./cgol.gif" alt="A simulation of Conway's Game of Life on the surface of a trefoil knot">
+</p>
+
+<p align="center">
+    <a href="https://commons.wikimedia.org/wiki/File:Trefoil_knot_conways_game_of_life_without_background_and_fitting.gif">The Titou</a>,
+    <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>,
+    via Wikimedia Commons
 </p>
 
 <br>
